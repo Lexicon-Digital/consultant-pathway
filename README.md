@@ -16,8 +16,8 @@ At Lexicon Digital we value learning and growth for all our team members. We hav
 
 
 ### Recommended certifications
-
-There are many certifications available to software engineers, below are some of the few we strongly recommend:
+<br/>
+There are many certifications available to software engineers, below are some of the few we strongly recommend as your start your journey:
 <br/>
 <br/>
 
@@ -27,11 +27,15 @@ Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopte
 ####  - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 #### - [AWS Solutions Architect (Associate)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+<br/>
+<br/>
 
 #### **Linux**
 
 The linux kernel and subsystems are key to software development as the vast majority of containers, servers and Virtual Machines (VM's) will use some form of linux as a base system. Having a brief understanding of commands and scripting in this can be highly beneficial. 
 #### - [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
+<br/>
+<br/>
 
 ### Available learning platforms
 
