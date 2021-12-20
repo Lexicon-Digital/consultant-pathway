@@ -37,7 +37,7 @@ https://www.udemy.com/course/learn-docker/
 
 ### Recommended certifications
 <br/>
-There are many certifications available to software engineers, below are some of the few we strongly recommend as your start your journey:
+There are many crtifications available to software engineers, below are some of the few we strongly recommend as your start your journey:
 <br/>
 <br/>
 
@@ -57,6 +57,11 @@ The linux kernel and subsystems are key to software development as the vast majo
 
 ### Available learning platforms
 
+Below are some of the learning platforms available to you, login credentials can be found within the company portal.
+
+- [FreeCode Camp](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [A Cloud Guru](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [Udemy](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ### Reporting Bugs and Issues
 
