@@ -14,6 +14,26 @@ At Lexicon Digital we value learning and growth for all our team members. We hav
 
 ### Focus areas
 
+Below are four keys areas for developing your skills and becoming a well-rounded consultant at Lexicon Digital. We recommend working your way through each of the categories
+
+#### Software development
+https://www.udemy.com/course/the-complete-javascript-course/
+https://www.udemy.com/course/understanding-typescript/
+https://www.udemy.com/course/kotlinmasterclass/
+https://kotlinlang.org/docs/koans.html
+https://epicreact.dev/ 
+
+https://www.udemy.com/course/design-patterns-javascript/
+https://www.udemy.com/course/software-architecture-learnit/
+
+#### DevOps
+https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/
+https://www.udemy.com/course/learn-docker/
+
+#### Cloud Computing
+
+#### 
+
 
 ### Recommended certifications
 <br/>
@@ -28,13 +48,11 @@ Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopte
 
 #### - [AWS Solutions Architect (Associate)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 <br/>
-<br/>
 
 #### **Linux**
 
 The linux kernel and subsystems are key to software development as the vast majority of containers, servers and Virtual Machines (VM's) will use some form of linux as a base system. Having a brief understanding of commands and scripting in this can be highly beneficial. 
 #### - [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
-<br/>
 <br/>
 
 ### Available learning platforms
