@@ -59,13 +59,13 @@ The linux kernel and subsystems are key to software development as the vast majo
 
 Below are some of the learning platforms available to you, login credentials can be found within the company portal.
 
-- [FreeCode Camp](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-- [A Cloud Guru](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-- [Udemy](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [FreeCode Camp](https://www.freecodecamp.org/learn)
+- [A Cloud Guru](https://acloudguru.com/)
+- [Udemy](https://www.udemy.com/)
 
 ### Reporting Bugs and Issues
 
-
+If you experience any issues with company logins or course material not being available please let the operations team know as soon as possible.
 ### Contributing
 
 We are also looking to improve and ensure that we are provide up to date learning oppertunities for all our team members at Lexicon Digital. If you feel that this guide can be improved please reach out to your mentor or James Garner (Engineering Manager).
