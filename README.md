@@ -14,26 +14,30 @@ At Lexicon Digital we value learning and growth for all our team members. We hav
 
 ### Focus areas
 
-Below are four keys areas for developing your skills and becoming a well-rounded consultant at Lexicon Digital. We recommend working your way through each of the categories
+Below are five keys areas for developing your skills and becoming a well-rounded consultant at Lexicon Digital. We recommend working your way through each of the categories as numbered. 
+
+#### 1. Core Fundamentals
+https://www.udemy.com/course/linux-administration-bootcamp/
+#### 2. Software Architecture
+https://www.udemy.com/course/design-patterns-javascript/
+https://www.udemy.com/course/software-architecture-learnit/
+
+#### 3. DevOps
+https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/
+https://www.udemy.com/course/learn-docker/
+
+#### 4. Cloud Computing
+https://www.youtube.com/watch?v=SOTamWNgDKc
 
 #### Software development
+###### The Language specific courses below are based on your past knowledge and upcoming client projects.
 https://www.udemy.com/course/the-complete-javascript-course/
 https://www.udemy.com/course/understanding-typescript/
 https://www.udemy.com/course/kotlinmasterclass/
 https://kotlinlang.org/docs/koans.html
 https://epicreact.dev/ 
-
-https://www.udemy.com/course/design-patterns-javascript/
-https://www.udemy.com/course/software-architecture-learnit/
-
-#### DevOps
-https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/
-https://www.udemy.com/course/learn-docker/
-
-#### Cloud Computing
-
-#### 
-
+<br/>
+<br/>
 
 ### Recommended certifications
 <br/>
