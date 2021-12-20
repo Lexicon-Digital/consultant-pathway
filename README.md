@@ -29,7 +29,7 @@ Below are five keys areas for developing your skills and becoming a well-rounded
 #### 4. Cloud Computing
 [FreeCode Camp - AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=SOTamWNgDKc)
 
-#### Software development
+#### 5. Software development
 [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 ###### The Language specific courses below are based on your past knowledge and upcoming client projects.
 [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
