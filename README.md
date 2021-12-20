@@ -17,25 +17,25 @@ At Lexicon Digital we value learning and growth for all our team members. We hav
 Below are five keys areas for developing your skills and becoming a well-rounded consultant at Lexicon Digital. We recommend working your way through each of the categories as numbered. 
 
 #### 1. Core Fundamentals
-https://www.udemy.com/course/linux-administration-bootcamp/
+[Linux Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/)
 #### 2. Software Architecture
-https://www.udemy.com/course/design-patterns-javascript/
-https://www.udemy.com/course/software-architecture-learnit/
+[Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/)
+[Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/)
 
 #### 3. DevOps
-https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/
-https://www.udemy.com/course/learn-docker/
+[Introduction to Continuous Integration & Continuous Delivery](https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/)
+[Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
 
 #### 4. Cloud Computing
-https://www.youtube.com/watch?v=SOTamWNgDKc
+[FreeCode Camp - AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=SOTamWNgDKc)
 
 #### Software development
+[Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 ###### The Language specific courses below are based on your past knowledge and upcoming client projects.
-https://www.udemy.com/course/the-complete-javascript-course/
-https://www.udemy.com/course/understanding-typescript/
-https://www.udemy.com/course/kotlinmasterclass/
-https://kotlinlang.org/docs/koans.html
-https://epicreact.dev/ 
+[The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
+[Complete Kotlin development masterclass](https://www.udemy.com/course/kotlinmasterclass/)
+[Kotlin Koans Challenges](https://kotlinlang.org/docs/koans.html)
+[Epic React](https://epicreact.dev/)
 <br/>
 <br/>
 
