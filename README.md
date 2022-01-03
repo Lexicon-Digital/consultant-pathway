@@ -32,10 +32,10 @@ Below are five keys areas for developing your skills and becoming a well-rounded
 #### 5. Software development
 [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 ###### The Language specific courses below are based on your past knowledge and upcoming client projects.
-[The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
-[Complete Kotlin development masterclass](https://www.udemy.com/course/kotlinmasterclass/)
-[Kotlin Koans Challenges](https://kotlinlang.org/docs/koans.html)
-[Epic React](https://epicreact.dev/)
+- [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
+- [Complete Kotlin development masterclass](https://www.udemy.com/course/kotlinmasterclass/)
+- [Kotlin Koans Challenges](https://kotlinlang.org/docs/koans.html)
+- [Epic React](https://epicreact.dev/)
 <br/>
 <br/>
 
@@ -55,7 +55,7 @@ Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopte
 #### **Linux**
 
 The linux kernel and subsystems are key to software development as the vast majority of containers, servers and Virtual Machines (VM's) will use some form of linux as a base system. Having a brief understanding of commands and scripting in this can be highly beneficial. 
-#### - [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
 <br/>
 
 ### Available learning platforms
