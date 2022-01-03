@@ -17,14 +17,14 @@ At Lexicon Digital we value learning and growth for all our team members. We hav
 Below are five keys areas for developing your skills and becoming a well-rounded consultant at Lexicon Digital. We recommend working your way through each of the categories as numbered. 
 
 #### 1. Core Fundamentals
-[Linux Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/)
+- [Linux Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/)
 #### 2. Software Architecture
-[Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/)
-[Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/)
+- [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/)
+- [Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/)
 
 #### 3. DevOps
-[Introduction to Continuous Integration & Continuous Delivery](https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/)
-[Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
+- [Introduction to Continuous Integration & Continuous Delivery](https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/)
+- [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
 
 #### 4. Cloud Computing
 [FreeCode Camp - AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=SOTamWNgDKc)
@@ -48,9 +48,8 @@ There are many crtifications available to software engineers, below are some of 
 #### **AWS**
 
 Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform followed by Microsoft Azure and Google Cloud Platform (GCP). Having an understanding in some cloud computing basics is highly valuable as most companies have transitioned or are on their way to using cloud computing infrastructure as opposed to on-premises hardware.
-####  - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-
-#### - [AWS Solutions Architect (Associate)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [AWS Solutions Architect (Associate)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 <br/>
 
 #### **Linux**
