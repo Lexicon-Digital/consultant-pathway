@@ -7,6 +7,11 @@ At Lexicon Digital, we value learning and growth for all of our team members. We
 ## Table of Contents
 
 - [Focus areas](#focus-areas)
+    - [Core fundamentals](#core-fundamentals)
+    - [Software development](#software-development)
+    - [Software Architecture](#software-architecture)
+    - [DevOps](#devops)
+    - [Cloud Computing](#cloud-computing)
 - [Recommended certifications](#recommended-certifications)
 - [Available learning platforms](#learning-platforms)
 - [Reporting Bugs and Issues](#reporting-issues)
@@ -14,38 +19,59 @@ At Lexicon Digital, we value learning and growth for all of our team members. We
 
 ## Focus areas <a name="focus-areas"></a>
 
-Below are five key areas for developing your skills and becoming a well-rounded consultant at Lexicon Digital. We recommend working your way through each of the categories as numbered. Once you have completed covering the key areas you may wish to watch previous [Tech Guild workshops](https://drive.google.com/drive/folders/1xfa4xo-bxvMPUtyBR6DzbMSceaiQ7ODS) team members have run in the past.
+Below are five key areas for developing your skills and becoming a well-rounded consultant at Lexicon Digital. We recommend working your way through each of the categories as numbered. Once you have completed covering the key areas you may wish to watch previous [Tech Guild workshops](https://drive.google.com/drive/folders/1xfa4xo-bxvMPUtyBR6DzbMSceaiQ7ODS) we have run in the past.
 
-### 1. Core Fundamentals
+### 1. Core fundamentals <a name="core-fundamentals"></a>
 
-The core fundamentals listed below are key topics and areas that every software engineer should have as they develop their career.
+##### The core fundamentals listed below are key topics and areas that every software engineer should have as they develop their career.
+<br/>
 
-- [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/)
-- [Common Linux commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+- [Object-oriented Programming in JavaScript](https://www.youtube.com/watch?v=PFmuCDHHpwk&t=1404s)
+- [Common terminal commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+- [Test driven development using javascript](https://www.udemy.com/course/test-driven-development-using-javascript-and-jest/)
 
 #### Addtional Courses
+
 - [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/)
 - [Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/)
 
-### 2. Software Architecture
+### 2. Software development <a name="software-development"></a>
+*Within this category we recommend undertaking one of the Typescript courses below if you are unfamiliar with it. The remainder of the courses are optional and may be beneficial to you depending on a client's tech stack.*
+<br/>
 
-- [Domain Driven Design & Microservices](https://www.youtube.com/watch?v=Km1fZ108UXU)
+- [TypeScript crash course](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+OR [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 
-### 3. DevOps
-- [Linux Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/)
-- [Introduction to Continuous Integration & Continuous Delivery](https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/)
-- [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
-
-### 4. Cloud Computing
-[FreeCode Camp - AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=SOTamWNgDKc)
-
-### 5. Software development
-[Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 ##### The Language specific courses below are based on your past knowledge and upcoming client projects.
 - [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
 - [Complete Kotlin development masterclass](https://www.udemy.com/course/kotlinmasterclass/)
 - [Kotlin Koans Challenges](https://kotlinlang.org/docs/koans.html)
 - [Epic React](https://epicreact.dev/)
+
+### 3. Software Architecture <a name="software-architecture"></a>
+- [Breaking Dependencies: The SOLID Principles](https://www.youtube.com/watch?v=RT-npV1JRKE)
+- [Domain Driven Design & Microservices](https://www.youtube.com/watch?v=Km1fZ108UXU)
+
+#### Addtional Courses
+- [gRPC MasterClass: Build Modern API & Microservices](https://www.udemy.com/course/grpc-nodejs/) (available in NodeJS, Java & Go)
+### 4. DevOps <a name="devops"></a>
+
+- [Intro to DevOps Engineering](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
+- [DevOps Prerequisites course](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+
+#### Addtional Courses
+
+- [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
+- [Introduction to Continuous Integration & Continuous Delivery](https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/)
+- [Linux Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/)
+
+### 5. Cloud Computing <a name="cloud-computing"></a>
+
+- [FreeCode Camp - AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=SOTamWNgDKc)
+- [Intro to AWS Cloud Computing](https://www.youtube.com/watch?v=SOTamWNgDKc)
+https://www.youtube.com/watch?v=ZE139jQJpW4&list=PLzde74P_a04cyCsmZakYbUE5sWN9dZ-Ux
+
+Additional resources for cloud computing can be found in the **cloud** OR **a-cloud-workshop** directories.
 <br/>
 
 ## Recommended certifications <a name="recommended-certifications"></a>
