@@ -85,6 +85,8 @@ There are many certifications available to software engineers. Below are some of
 Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, followed by Microsoft Azure and Google Cloud Platform (GCP). Having an understanding in some cloud computing basics is highly valuable as most companies have transitioned or are on their way to using cloud computing infrastructure as opposed to on-premises hardware.
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 - [AWS Solutions Architect (Associate)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+A collection of starting resources have been discussed [here](https://lexicondigital.slack.com/archives/CE9G6QM8B/p1636002899061500?thread_ts=1636002762.061300&cid=CE9G6QM8B) within the Lexicon slack workspace.
 <br/>
 
 #### **Linux**
@@ -95,7 +97,7 @@ The Linux kernel and subsystems are key to software development as the vast majo
 
 ## Available learning platforms <a name="learning-platforms"></a>
 
-Below are some of the learning platforms available to you - login credentials can be found within the company portal.
+Below are some of the learning platforms available to you - login credentials can be found within the company [portal](https://sites.google.com/lexicondigital.com.au/portal/home).
 
 - [FreeCode Camp](https://www.freecodecamp.org/learn) (no logins needed)
 - [A Cloud Guru](https://acloudguru.com/)
