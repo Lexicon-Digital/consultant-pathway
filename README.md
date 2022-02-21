@@ -66,8 +66,8 @@ OR [Understanding TypeScript](https://www.udemy.com/course/understanding-typescr
 ### 5. Cloud Computing <a name="cloud-computing"></a>
 
 - [FreeCode Camp - AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=SOTamWNgDKc)
-- [Intro to AWS Cloud Computing](https://www.youtube.com/watch?v=SOTamWNgDKc)
-https://www.youtube.com/watch?v=ZE139jQJpW4&list=PLzde74P_a04cyCsmZakYbUE5sWN9dZ-Ux
+
+- [Intro to AWS Cloud Computing](https://www.youtube.com/watch?v=ZE139jQJpW4&list=PLzde74P_a04cyCsmZakYbUE5sWN9dZ-Ux)
 
 Additional resources for cloud computing can be found in the **cloud** OR **a-cloud-workshop** directories.
 <br/>
