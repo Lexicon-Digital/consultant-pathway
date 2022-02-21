@@ -2,7 +2,7 @@
 
 # Lexicon Digital - Associate to Consultant pathway
 
-At Lexicon Digital, we value learning and growth for all of our team members. We have created this pathway to guide our associates to develop their skills and go on their way to becoming well-rounded consultants.
+At Lexicon Digital, we value learning and growth for all of our team members. We have created this pathway to guide our associates to develop their skills and go on their way to becoming well-rounded consultants. The material presented below are from a combination of sources, such as YouTube, learning platforms, and specific courses. For access to the learning platforms and specific courses, please refer to the instructions found [here](https://sites.google.com/lexicondigital.com.au/portal/growth#h.raerll82acn)
 
 ## Table of Contents
 
@@ -14,6 +14,7 @@ At Lexicon Digital, we value learning and growth for all of our team members. We
     - [Cloud Computing](#cloud-computing)
 - [Recommended certifications](#recommended-certifications)
 - [Available learning platforms](#learning-platforms)
+    - [Requesting additional training](#requesting-additional-training)
 - [Reporting Bugs and Issues](#reporting-issues)
 - [Contributing](#contributing)
 
@@ -29,9 +30,6 @@ Below are five key areas for developing your skills and becoming a well-rounded 
 - [Object-oriented Programming in JavaScript](https://www.youtube.com/watch?v=PFmuCDHHpwk&t=1404s)
 - [Common terminal commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 - [Test driven development using javascript](https://www.udemy.com/course/test-driven-development-using-javascript-and-jest/)
-
-#### Addtional Courses
-
 - [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/)
 - [Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/)
 
@@ -46,23 +44,23 @@ OR [Understanding TypeScript](https://www.udemy.com/course/understanding-typescr
 - [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
 - [Complete Kotlin development masterclass](https://www.udemy.com/course/kotlinmasterclass/)
 - [Kotlin Koans Challenges](https://kotlinlang.org/docs/koans.html)
-- [Epic React](https://epicreact.dev/)
+- [Epic React](https://epicreact.dev/) (please speak to your mentor to request this course)
 
 ### 3. Software Architecture <a name="software-architecture"></a>
 - [Breaking Dependencies: The SOLID Principles](https://www.youtube.com/watch?v=RT-npV1JRKE)
 - [Domain Driven Design & Microservices](https://www.youtube.com/watch?v=Km1fZ108UXU)
-
 #### Addtional Courses
 - [gRPC MasterClass: Build Modern API & Microservices](https://www.udemy.com/course/grpc-nodejs/) (available in NodeJS, Java & Go)
+- [Event-Driven Microservices: Spring Boot, Kafka and Elastic](https://www.udemy.com/course/event-driven-microservices-spring-boot-kafka-and-elasticsearch/)
 ### 4. DevOps <a name="devops"></a>
 
 - [Intro to DevOps Engineering](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
 - [DevOps Prerequisites course](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+- [Introduction to Continuous Integration & Continuous Delivery](https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/)
 
 #### Addtional Courses
 
 - [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
-- [Introduction to Continuous Integration & Continuous Delivery](https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/)
 - [Linux Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/)
 
 ### 5. Cloud Computing <a name="cloud-computing"></a>
@@ -105,10 +103,16 @@ Below are some of the learning platforms available to you - login credentials ca
 
 If you have recommendations for additional learning platforms or resources please feel free to speak with your mentor, one of the people and experience team members or raise them in the #devtech channel in slack.
 
+### Requesting additional training <a name="requesting-additonal-training"></a>
+
+Some training materials and courses such as the Epic React course mentioned above can be provided to you through your mentor's recommendation. If you feel that you may benefit from additional courses please speak to your mentor and they can arrange for it to be purchased or re-imbursed back to you.
+
 ## Reporting Bugs and Issues <a name="reporting-issues"></a>
 
 If you experience any issues with company logins or course material not being available, please let the operations team know as soon as possible.
 
 ## Contributing <a name="contributing"></a>
 
-We are also looking to improve and ensure that we are providing up to date learning opportunities for all our team members at Lexicon Digital. If you feel that this guide can be improved please reach out to your mentor or James Garner (Engineering Manager).
+If any content above has been updated or removed from their sources please feel free to update this document by raising a merge request with the relevant changes.
+
+We are always looking for ways to improve and ensure that we are providing up to date learning opportunities for all our team members at Lexicon Digital. If you feel that this guide can be improved with new content or additional topics please reach out to your mentor and raise a merge request into the ./admin/suggestions.md file.
