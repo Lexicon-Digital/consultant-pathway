@@ -52,6 +52,7 @@ OR [Understanding TypeScript](https://www.udemy.com/course/understanding-typescr
 #### Addtional Courses
 - [gRPC MasterClass: Build Modern API & Microservices](https://www.udemy.com/course/grpc-nodejs/) (available in NodeJS, Java & Go)
 - [Event-Driven Microservices: Spring Boot, Kafka and Elastic](https://www.udemy.com/course/event-driven-microservices-spring-boot-kafka-and-elasticsearch/)
+- [Microfrontends with React](https://www.udemy.com/course/microfrontend-course/)
 ### 4. DevOps <a name="devops"></a>
 
 - [Intro to DevOps Engineering](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
