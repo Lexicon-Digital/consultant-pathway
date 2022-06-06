@@ -27,11 +27,12 @@ Below are five key areas for developing your skills and becoming a well-rounded 
 ##### The core fundamentals listed below are key topics and areas that every software engineer should have as they develop their career.
 <br/>
 
-- [Object-oriented Programming in JavaScript](https://www.youtube.com/watch?v=PFmuCDHHpwk&t=1404s)
-- [Common terminal commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
-- [Test driven development using javascript](https://www.udemy.com/course/test-driven-development-using-javascript-and-jest/)
-- [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/)
-- [Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/)
+-  [Computer Stuff They Didn't Teach You (playlist)](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr)
+-  [Common terminal commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+-  [Test driven development using javascript](https://www.udemy.com/course/test-driven-development-using-javascript-and-jest/)
+-  [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/)
+-  [Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/)
+-  [Object-oriented Programming in JavaScript](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 
 ### 2. Software development <a name="software-development"></a>
 *Within this category we recommend undertaking one of the Typescript courses below if you are unfamiliar with it. The remainder of the courses are optional and may be beneficial to you depending on a client's tech stack.*
