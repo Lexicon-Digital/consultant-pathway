@@ -42,16 +42,19 @@ Below are five key areas for developing your skills and becoming a well-rounded 
 - [TypeScript crash course](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 
-##### The Language specific courses below are based on your past knowledge and upcoming client projects.
+##### The language specific courses below are based on your past knowledge and upcoming client projects.
 - [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
 - [Complete Kotlin development masterclass](https://www.udemy.com/course/kotlinmasterclass/)
 - [Kotlin Koans Challenges](https://kotlinlang.org/docs/koans.html)
-- [Epic React](https://epicreact.dev/) (please speak to your mentor to request this course)
+
+###### Paid courses (please speak to your mentor to request a license):
+- [Epic React](https://epicreact.dev/)
+- [CSS for JavaScript Developers](https://css-for-js.dev/)
 
 ### 3. Software Architecture <a name="software-architecture"></a>
 - [Breaking Dependencies: The SOLID Principles](https://www.youtube.com/watch?v=RT-npV1JRKE)
 - [Domain Driven Design & Microservices](https://www.youtube.com/watch?v=Km1fZ108UXU)
-#### Addtional Courses
+#### Additional Courses
 - [gRPC MasterClass: Build Modern API & Microservices](https://www.udemy.com/course/grpc-nodejs/) (available in NodeJS, Java & Go)
 - [Event-Driven Microservices: Spring Boot, Kafka and Elastic](https://www.udemy.com/course/event-driven-microservices-spring-boot-kafka-and-elasticsearch/)
 - [Microfrontends with React](https://www.udemy.com/course/microfrontend-course/)
@@ -61,7 +64,7 @@ Below are five key areas for developing your skills and becoming a well-rounded 
 - [DevOps Prerequisites course](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
 - [Introduction to Continuous Integration & Continuous Delivery](https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/)
 
-#### Addtional Courses
+#### Additional Courses
 
 - [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/)
 - [Linux Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/)
