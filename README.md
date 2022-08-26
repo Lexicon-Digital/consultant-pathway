@@ -38,8 +38,9 @@ Below are five key areas for developing your skills and becoming a well-rounded 
 *Within this category we recommend undertaking one of the Typescript courses below if you are unfamiliar with it. The remainder of the courses are optional and may be beneficial to you depending on a client's tech stack.*
 <br/>
 
+- [Beginner's TypeScript (Matt Pocock)](https://github.com/total-typescript/beginners-typescript)
 - [TypeScript crash course](https://www.youtube.com/watch?v=BwuLxPH8IDs)
-OR [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
+- [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 
 ##### The Language specific courses below are based on your past knowledge and upcoming client projects.
 - [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
