@@ -5,7 +5,7 @@ Please use this document to make any suggestions or feedback regarding the cours
 
 ## Suggestions
 
-example suggestion text
+[Digital Accessibility Foundations](https://www.w3.org/WAI/courses/foundations-course/#who-the-course-is-for) - Free to complete, can pay for a verified certificate upon completion. 
 
 ## Feedback
 
